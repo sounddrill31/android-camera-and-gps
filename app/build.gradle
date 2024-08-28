@@ -1,9 +1,9 @@
 plugins {
-    id("com.android.application") version "7.3.0" 
+    id 'com.android.application'
 }
 
 android {
-    compileSdkVersion 32 // Update to latest recommended SDK version
+    compileSdkVersion 32
     defaultConfig {
         applicationId = "com.example.natan.cameraandgps"
         minSdkVersion = 15
