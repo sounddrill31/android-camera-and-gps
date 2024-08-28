@@ -1,5 +1,3 @@
-include ':app'
-
 pluginManagement {
     repositories {
         google()
@@ -7,3 +5,5 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+
+include ':app'
