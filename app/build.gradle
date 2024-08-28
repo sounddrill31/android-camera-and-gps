@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'com.example.natan.cameraandgps'
     compileSdkVersion 32
     defaultConfig {
         applicationId = "com.example.natan.cameraandgps"
